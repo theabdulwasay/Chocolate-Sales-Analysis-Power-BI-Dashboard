@@ -1,5 +1,3 @@
-.
-
 🍫 Chocolate Sales Analysis & Power BI Dashboard
 
 Author: Abdul Wasay
